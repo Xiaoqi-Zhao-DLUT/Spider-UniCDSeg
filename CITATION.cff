@@ -4,18 +4,13 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 title: "Spider: A Unified Framework for Context-dependent Concept Understanding"
-identifiers:
-  - type: url
-    value: 'https://arxiv.org/abs/xxxx.xxxxx'
-    description: AriXv
-url: 'https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg'
 keywords:
   - Context-dependent Concept
   - Unified Framework
-version: 1.0.0
+url: 'https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg'
 preferred-citation:
   type: conference-paper
-  title: "Spider: A Unified Framework for Context-dependent Concept Understanding"
+  title: 'Spider: A Unified Framework for Context-dependent Concept Understanding'
   authors:
     - given-names: Xiaoqi
       family-names: Zhao
@@ -36,5 +31,6 @@ preferred-citation:
     - given-names: Huchuan
       family-names: Lu
       affiliation: Dalian University of Technology
-  booktitle: "Forty-first International Conference on Machine Learning"
+  conference:
+      name: "Forty-first International Conference on Machine Learning"
   year: 2024
