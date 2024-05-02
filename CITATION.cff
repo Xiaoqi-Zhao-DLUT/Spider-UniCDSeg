@@ -2,40 +2,39 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: "Spider: A Unified Framework for Context-dependent Concept Understanding"
 message: If you use this software, please cite it using the metadata from this file.
-type: software
-authors:
-  - given-names: Xiaoqi
-    family-names: Zhao
-    affiliation: Dalian University of Technology
-  - given-names: Youwei
-    family-names: Pang
-    affiliation: Dalian University of Technology
-  - given-names: Wei
-    family-names: Ji
-  - given-names: Baicheng
-    family-names: Sheng
-    affiliation: Dalian University of Technology
-  - given-names: Jiaming
-    family-names: Zuo
-  - given-names: Lihe
-    family-names: Zhang
-    affiliation: Dalian University of Technology
-  - given-names: Huchuan
-    family-names: Lu
-    affiliation: Dalian University of Technology
+title: "Spider: A Unified Framework for Context-dependent Concept Understanding"
 identifiers:
   - type: url
     value: 'https://arxiv.org/abs/xxxx.xxxxx'
     description: AriXv
-repository-code: 'https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg'
+url: 'https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg'
 keywords:
   - Context-dependent Concept
   - Unified Framework
-date-released: '2024-05-02'
+version: 1.0.0
 preferred-citation:
   type: conference-paper
   title: "Spider: A Unified Framework for Context-dependent Concept Understanding"
+  authors:
+    - given-names: Xiaoqi
+      family-names: Zhao
+      affiliation: Dalian University of Technology
+    - given-names: Youwei
+      family-names: Pang
+      affiliation: Dalian University of Technology
+    - given-names: Wei
+      family-names: Ji
+    - given-names: Baicheng
+      family-names: Sheng
+      affiliation: Dalian University of Technology
+    - given-names: Jiaming
+      family-names: Zuo
+    - given-names: Lihe
+      family-names: Zhang
+      affiliation: Dalian University of Technology
+    - given-names: Huchuan
+      family-names: Lu
+      affiliation: Dalian University of Technology
   booktitle: "Forty-first International Conference on Machine Learning"
   year: 2024
