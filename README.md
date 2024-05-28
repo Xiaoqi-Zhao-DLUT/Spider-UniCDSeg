@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <h1 align="center">Spider: A Unified Framework for Context-dependent Concept Understanding</h1>
+  <h1 align="center">Spider: A Unified Framework for Context-dependent Concept Segmentation</h1>
   <p align="center">
     ICML, 2024
     <br />
