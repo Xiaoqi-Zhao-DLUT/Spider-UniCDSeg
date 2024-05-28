@@ -117,7 +117,7 @@ If you think Spider-UniCDSeg codebase are useful for your research, please consi
 
 ```bibtex
 @inproceedings{Spider,
-  title={Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline},
+  title={Spider: A Unified Framework for Context-dependent Concept Segmentation},
   author={Zhao, Xiaoqi and Pang, Youwei and Ji, Wei and Sheng, Baicheng and Zuo, Jiaming and Zhang, Lihe and Lu, Huchuan},
   booktitle={ICML},
   year={2024}
