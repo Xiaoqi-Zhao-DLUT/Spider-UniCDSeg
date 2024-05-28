@@ -102,7 +102,7 @@
 ## To Do List
 
 - [x] Release data sets.
-- [ ] Release model code.
+- [x] Release model code.
 - [x] Release model weights.
 - [x] Release model prediction maps.
 
