@@ -88,10 +88,10 @@
 -  **ISIC18 (SLS)**: [Google Drive](https://drive.google.com/file/d/1A29IkVysVPUPy4vu1RklKf4AAD7QvV3x/view?usp=sharing)
    
 ## Trained Models
--  Spider-Swin-B [Google Drive](https://drive.google.com/file/d/1dVtJ7as8NXpShGB4QExoooSLl5iGofJx/view?usp=sharing)
--  Spider-Swin-L [GitHub Release](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg/releases/download/v1.0/Spider_convnext_l.pth)
--  Spider-ConvNeXt-B [Google Drive](https://drive.google.com/file/d/1AepdZrpQh0RvvWz784n1zEfkabZOsfKj/view?usp=sharing)
--  Spider-ConvNeXt-L [GitHub Release](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg/releases/download/v1.0/Spider_swin_l.pth)
+-  Spider-ConvNext-B [Google Drive](https://drive.google.com/file/d/1AepdZrpQh0RvvWz784n1zEfkabZOsfKj/view?usp=sharing)
+-  Spider-ConvNext-L [GitHub Release](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg/releases/download/v1.0/Spider_convnext_l.pth)
+-  Spider-Swin-B [Google Drive](https://drive.google.com/file/d/1AepdZrpQh0RvvWz784n1zEfkabZOsfKj/view?usp=sharing)
+-  Spider-Swin-L [GitHub Release](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg/releases/download/v1.0/Spider_swin_l.pth)
 
 ## Prediction Maps
 -  Spider-Swin-B [Google Drive](https://drive.google.com/file/d/1dVtJ7as8NXpShGB4QExoooSLl5iGofJx/view?usp=sharing)
